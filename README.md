@@ -1,20 +1,20 @@
 # Word Count System
 
-It's a program that accepts a text file as input.
+This is a program that accepts a text file as input.
 
-And counts the words in the file and how many times each word appeared,
+In adition it counts the words in the file and how many times each word appeared,
 
-Finally stores the results in an S3 bucket.
+Finally stores the results in a S3 bucket.
 
 The program is also able to display the result for a specific file,
 
-by Read it from S3
+by reading it from the bucket.
 
-## A few words about AWS, its usefulness, and what it's
+## A few words about AWS
 
-AWS (Amazon Web Services) is a comprehensive and evolving cloud computing platform provided by Amazon that offers a wide range of services to help businesses expand and grow efficiently.
+AWS (Amazon Web Services) is a comprehensive and advanced cloud computing platform provided by Amazon that offers a wide range of services to help businesses expand and grow efficiently.
 
-### Part of the benefit that can be derived from using these services
+### Part of the benefits that can be derived from using these services
 - **Scalability:** AWS allows you to scale up or down resources based on demand, ensuring optimal performance and cost efficiency.
    
 - **Cost-effective:** With a pay-as-you-go pricing model, AWS helps businesses save money by only paying for the resources they use.
