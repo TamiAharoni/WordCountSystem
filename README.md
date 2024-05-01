@@ -31,4 +31,4 @@ AWS (Amazon Web Services) is a comprehensive and evolving cloud computing platfo
  As part of AWS, S3 is a scalable object storage service that enables data to be stored and retrieved in a secure and durable manner. It provides a simple web services interface to store and retrieve any amount 
  of data from anywhere on the Internet. With features like data encryption, versioning, and lifecycle management, S3 is ideal for a wide variety of use cases, including data backup, content distribution, and data 
  archiving.
-
+ ##### Created by Tamar Aharoni.
