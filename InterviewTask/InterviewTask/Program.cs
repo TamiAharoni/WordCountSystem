@@ -69,7 +69,7 @@ namespace InterviewTask
         /// <summary>
         /// Function to save result in my S3 bucket.
         /// </summary>
-        public static void UploadFileToS3(string resultFile)
+        public static async Task UploadFileToS3(string resultFile)
         {
             try
             {
@@ -79,7 +79,7 @@ namespace InterviewTask
                     var fileTransferUtility = new TransferUtility(client);
 
                     //Upload file to my S3 bucket.
-                    fileTransferUtility.Upload(resultFile, bucketName);
+                    await fileTransferUtility.UploadAsync(resultFile, bucketName);
 
                     LogUtility.AddToLog("File uploaded successfully to S3 bucket: " + bucketName);
                 }
