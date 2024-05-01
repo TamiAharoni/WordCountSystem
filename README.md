@@ -14,8 +14,7 @@ by Read it from S3
 
 AWS (Amazon Web Services) is a comprehensive and evolving cloud computing platform provided by Amazon that offers a wide range of services to help businesses expand and grow efficiently.
 
-**Part of the benefit that can be derived from using these services**
-#
+# **Part of the benefit that can be derived from using these services**
 - **Scalability:** AWS allows you to scale up or down resources based on demand, ensuring optimal performance and cost efficiency.
    
 - **Cost-effective:** With a pay-as-you-go pricing model, AWS helps businesses save money by only paying for the resources they use.
