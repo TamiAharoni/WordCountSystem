@@ -2,7 +2,7 @@
 
 This is a program that accepts a text file as input.
 
-In adition it counts the words in the file and how many times each word appeared,
+In addition it counts the words in the file and how many times each word appeared,
 
 Finally stores the results in a S3 bucket.
 
