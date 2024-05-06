@@ -17,8 +17,8 @@ namespace InterviewTask
         //Defination of global variables.
         const string fileName = "InputText2";
         const string filePath = "..\\..\\..\\InputText2.txt";
-        const string awsAccessKeyId = "AKIA5Y3Y6ZSDMVXKBYGD";
-        const string awsSecretAccessKey = "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";
+        const string awsAccessKeyId = "AKIA5Y3Y6ZSDMVXKBYGDT";
+        const string awsSecretAccessKey = "8uj07T5rACzL+ov6rQj6a79Lqdxkq3sPj5PpODWeA";
         const string bucketName = "tamaraharoni6bucket";
 
         /// <summary>
